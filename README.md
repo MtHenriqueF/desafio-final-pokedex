@@ -1,3 +1,5 @@
+Tive um erro ao inserir o lombok, por isso foi utilizado os construtores
+
 ![printget](https://github.com/MtHenriqueF/desafio-final-pokedex/assets/144573356/ea61aef1-4d4c-49cf-ae38-0148f2857c4b)
 
 
